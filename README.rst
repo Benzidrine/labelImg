@@ -1,3 +1,8 @@
+Fork Reasons
+========
+
+Change to a poetry based system to fit with my workflow
+
 LabelImg
 ========
 
